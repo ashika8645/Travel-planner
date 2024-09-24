@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25067464654",
+    "project_id": "doancs-59ae8",
+    "storage_bucket": "doancs-59ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25067464654:android:8250ed4cc2206b5457ed9f",
+        "android_client_info": {
+          "package_name": "com.example.doancs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCu0pRP15OQMK8w1v_8iYTWtPwj0U9WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
